@@ -1,0 +1,31 @@
+name: dtatari
+channels:
+  - pytorch
+dependencies:
+  - python=3.8.5
+  - pytorch
+  - cudatoolkit=11.3
+  - numpy
+  - psutil
+  - opencv
+  - pip
+  - pip:
+      - atari-py
+      - pyprind
+      - tensorflow-gpu>=1.13
+      - absl-py
+      - gin-config
+      - gym
+      - tqdm
+      - blosc
+      - git+https://github.com/google/dopamine.git
+      - pytorch-metric-learning
+      - h5py
+      - ale-py
+      - pandas
+      - keras
+      - pyyaml
+      - ray
+      - scikit-learn
+      - scipy
+      - wandb
