@@ -36,7 +36,7 @@ python run_dt_atari.py --seed 123 --block_size 90 --epochs 5 --model_type 'rewar
 
 We also provide a script, ```tune_simclr.py``` that uses hyper-parameter search to find the optimal settings for the SimRCRL Loss.
 
-============= ================= ================= ====================== ================ ================= ================== ================== =============== =================
+============= ================= ================= ====================== ================ ================= ================== ==================
 
 
 # OpenAI Gym
