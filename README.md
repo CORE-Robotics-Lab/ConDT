@@ -1,7 +1,7 @@
 # ConDT
 Public implementation of the Contrastive Decision Transformers (ConDT), CoRL 2022
 
-# *** COMING SOON ***
+                  # *** COMING SOON ***
 
 # Atari
 
